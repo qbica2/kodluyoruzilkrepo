@@ -14,8 +14,7 @@
  Linux için:
 
 
-> cd kodluyoruzilkrepo 
-
+> cd kodluyoruzilkrepo   
 > code . 
 
 
