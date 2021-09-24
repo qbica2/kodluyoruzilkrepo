@@ -3,7 +3,7 @@
 
 ## **Installation**
 
-git clone https://github.com/qbica2/kodluyoruzilkrepo.git
+>git clone https://github.com/qbica2/kodluyoruzilkrepo.git
 
 ## **Usage**
 
@@ -11,9 +11,9 @@ git clone https://github.com/qbica2/kodluyoruzilkrepo.git
 
 **Linux için :**
 
-cd kodluyoruzilkrepo
+>cd kodluyoruzilkrepo
 
-code .
+>code .
 
 ## **Contributing**
 
