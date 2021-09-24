@@ -5,7 +5,7 @@
 
  Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
->git clone https://github.com/qbica2/kodluyoruzilkrepo.git
+><font size= "1"> git clone https://github.com/qbica2/kodluyoruzilkrepo.git </font>
 
 ## Usage
 
@@ -14,8 +14,8 @@
  Linux için:
 
 
-> cd kodluyoruzilkrepo   
-> code . 
+><font size ="1"> cd kodluyoruzilkrepo </font>   
+><font size ="1"> code .</font> 
 
 
 ## Contributing
